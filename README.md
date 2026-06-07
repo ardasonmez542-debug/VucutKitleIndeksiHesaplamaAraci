@@ -42,3 +42,6 @@ $$\text{VKİ} = \frac{\text{Kilo (kg)}}{\left(\frac{\text{Boy (cm)}}{100}\right)
 * **18.5 - 24.9:** Normal Kilolu 💪
 * **25.0 - 29.9:** Fazla Kilolu 🍕
 * **>= 30.0:** Obez ⚠️
+
+<img width="1490" height="754" alt="Uyguluma_Ekranı" src="https://github.com/user-attachments/assets/05578aa5-b002-4771-844d-3fd3414d84ea" />
+
